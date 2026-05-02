@@ -1,0 +1,7 @@
+[versions]
+garage = "2.1.2"
+editorial = "2.25.3"
+
+[libraries]
+garage = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "garage" }
+editorial = { module = "org.apache.logging.log4j:log4j-core", version.ref = "editorial" }
