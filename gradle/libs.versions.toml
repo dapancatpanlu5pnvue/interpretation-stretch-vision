@@ -1,6 +1,6 @@
 [versions]
 garage = "2.1.2"
-editorial = "2.25.3"
+editorial = "2.25.4"
 
 [libraries]
 garage = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "garage" }
