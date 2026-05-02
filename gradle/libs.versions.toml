@@ -1,5 +1,5 @@
 [versions]
-garage = "2.1.2"
+garage = "3.4.3"
 editorial = "2.25.3"
 
 [libraries]
